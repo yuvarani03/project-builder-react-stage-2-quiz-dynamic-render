@@ -1,7 +1,7 @@
 
 ![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
-# ProGrad PROJECT BUILDER | REACT - QUIZ STAGE I - UI
+# ProGrad PROJECT BUILDER | REACT - QUIZ STAGE I - PROPS & STATE
 
 ## Learning Goals
 
