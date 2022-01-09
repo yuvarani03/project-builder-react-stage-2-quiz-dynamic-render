@@ -1,0 +1,122 @@
+[
+    {
+        "quest":"In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+        "A":"1850s",
+        "B":"1880s",
+        "C":"1930s",
+        "D":"1950s",
+        "ans":"1880s"
+    },
+    {
+        "quest":"'OS' computer abbreviation usually means?",
+        "A":"Order of Significance",
+        "B":"Open Software",
+        "C":"Operating System",
+        "D":"Optical Sensor",
+        "ans":"Operating System"
+    },
+    {
+        "quest":"The purpose of choke in tube light is?",
+        "A":"To decrease the current",
+        "B":"To increase the current",
+        "C":"To decrease the voltage momentarily",
+        "D":"To increase the voltage momentarily",
+        "ans":"To increase the voltage momentarily"
+    },
+    {
+        "quest":"Ozone hole refers to",
+        "A":"Hole in ozone layer",
+        "B":"Decrease in the ozone layer in troposphere",
+        "C":"Decrease in thickness of ozone layer in stratosphere",
+        "D":"Increase in the thickness of ozone layer in troposphere",
+        "ans":"Decrease in thickness of ozone layer in stratosphere"
+    },
+    {
+        "quest":"Plants receive their nutrients mainly from",
+        "A":"Chlorophyll",
+        "B":"Atmosphere",
+        "C":"Light",
+        "D":"Soil",
+        "ans":"Soil"
+    },
+    {
+        "quest":"January 15 is celebrated as the",
+        "A":"Republic Day",
+        "B":"Ugadhi",
+        "C":"Teachers' Day",
+        "D":"Army Day",
+        "ans":"Army Day"
+    },
+    {
+        "quest":"Who is the author of the book 'Nineteen Eighty Four'?",
+        "A":"Thomas Hardy",
+        "B":"Emile Zola",
+        "C":"George Orwell",
+        "D":"Walter Scott",
+        "ans":"George Orwell"
+    },
+    {
+        "quest":"In India the first television programme was broadcasted in",
+        "A":"1959",
+        "B":"1965",
+        "C":"1976",
+        "D":"1957",
+        "ans":"1959"
+    },
+    {
+        "quest":"Who is the father of English Poetry?",
+        "A":"Milton",
+        "B":"Wordsworth",
+        "C":"Chaucer",
+        "D":"Charles Dickens",
+        "ans":"Chaucer"
+    },
+    {
+        "quest":"The ratio of width of our National flag to its length is",
+        "A":"3:5",
+        "B":"2:3",
+        "C":"2:4",
+        "D":"3:4",
+        "ans":"2:3"
+    },
+    {
+        "quest":"The book of Parsis is",
+        "A":"Torah",
+        "B":"Bible",
+        "C":"Zend Avesta",
+        "D":"Gita",
+        "ans":"Zend Avesta"
+    },
+    {
+        "quest":"The National Anthem was first sung in the year",
+        "A":"1911",
+        "B":"1913",
+        "C":"1936",
+        "D":"1935",
+        "ans":"1911"
+    },
+    {
+        "quest":"Development expenditure of the Central government does not include",
+        "A":"Defence expenditure",
+        "B":"Expenditure on economic services",
+        "C":"Expenditure on social and community services",
+        "D":"Grant to states",
+        "ans":"Defence expenditure"
+    },
+    {
+        "quest":"ICICI is the name of a",
+        "A":"Chemical industry",
+        "B":"Bureau",
+        "C":"Corporation",
+        "D":"Financial institution",
+        "ans":"Financial institution"
+    },
+    {
+        "quest":"India changed over to the decimal system of coinage in",
+        "A":"April 1995",
+        "B":"April 1957",
+        "C":"April 1958",
+        "D":"April 1959",
+        "ans":"April 1957"   
+    }
+]

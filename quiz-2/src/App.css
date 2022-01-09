@@ -1,0 +1,147 @@
+.container{
+  display: flex;
+  flex-direction:column ;
+  justify-content: center;
+  position: fixed;
+  background-color:rgb(86, 73, 172);
+  width: 100%;
+  height: 100%;
+  align-items: center;   
+}
+h1{
+  text-align: center;
+  font-size: 40px;
+  color: white;  
+}
+.playbtn{
+  margin: 15px;
+  width: 15vw;
+  font-size: 30px;
+  background-color: green;
+  color: white;
+  border-radius: 20px; 
+}
+
+.quiz{
+  margin: 20px;
+  width: 60vw;
+  height: 50vh;
+  background-color: white;
+  box-shadow:-10px 0 5px -5px rgb(14, 165, 240);
+  padding: 45px; 
+}
+h1{
+  text-align: center;
+  font-size: 40px;
+  color: rgb(14, 13, 13);
+}
+.quest{
+  display: flex;
+  color: gray;
+  font-size: larger;
+}
+.num{
+  margin: 0;
+  float: left;
+}
+.que{
+  margin:0 auto;
+}
+.opts{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
+.opt{
+  color:white;
+  background-color:rgb(56, 146, 250);
+  margin: 20px;
+  width: 25vw;
+  height:5vh ;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.change{
+  display: flex;
+  justify-content: center;
+}
+.change button{
+  width:5vw;
+  height:4vh;
+  margin:5px;
+  border:2px solid transparent;
+}
+.prev{
+  background-color: rgb(42, 124, 248);
+  color: whitesmoke;      
+}
+.nex{
+  background-color: rgb(126, 185, 6);
+  color: whitesmoke;
+}
+.end{
+  background-color: rgb(247, 65, 33);
+  color: whitesmoke;
+}
+.prev,.nex,.end{
+  cursor: pointer;
+}
+.icon{
+  display: flex;
+  justify-content: center;
+  margin: -10px;
+  width:100%;
+  height:8%; 
+}
+
+h2{
+  color: rgb(6, 196, 54);
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size:xx-large;
+}
+.result{
+  margin: 20px;
+  background-color: white;
+  padding: 25px;  
+  width: 40vw;
+}
+.msg{
+  font-size: 30px;
+  color: rgb(128, 126, 126);
+  padding-top: 20px;
+ text-align: center;
+}
+.score{
+  color:rgb(70, 169, 235);
+  font-size: 30px;
+  padding-top: 10px;
+  margin: auto;
+}
+.score-details{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.qu{
+  text-align: left;
+}
+.cnt{
+  text-align: right;
+}
+.btm{
+  display: flex;
+  justify-content: center; 
+}
+.btm button{
+  margin:7px;
+}
+.pa,.bth{
+  background-color: rgb(86, 73, 172);
+}
+.pa{
+  color:rgb(78, 165, 236);
+  border-color:rgb(78, 165, 236) ;
+}
+.bth{
+  color: rgb(39, 219, 39);
+  border-color: rgb(39, 219, 39);
+}
